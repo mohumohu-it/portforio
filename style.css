@@ -128,7 +128,7 @@ body {
   overflow: hidden;
   height: 436px;
   background: #fffffb;
-  background-image: url(/img/profile13.jpg);
+  background-image: url(img/profile13.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -240,7 +240,7 @@ body {
 .skills_wrap {
   text-align: center;
   padding: 80px 15vw 0 15vw;
-  background-image: url("img/skills5.jpg");
+  background-image: url(img/skills5.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -317,7 +317,7 @@ body {
 .works_wrap {
   text-align: center;
   padding: 80px 15vw 80px 15vw;
-  background-image: url(./img/works2.jpg);
+  background-image: url(img/works2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
