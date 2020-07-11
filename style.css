@@ -43,7 +43,7 @@ body {
 .header {
   animation: fadeIn1 2s ease 0.2s 1 normal;
   text-align: right;
-  background-image: url(./img/header.jpg);
+  background-image: url(img/header.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
