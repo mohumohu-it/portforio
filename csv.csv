@@ -1,0 +1,9 @@
+URL,imgPATH,Alt,title,details,tech
+"https://chatbot-5eea0.web.app/","./img/work_chatbot.png","Chat bot サムネイル","Chat Bot デモ","チャットボットのデモアプリです。自動返信のような汎用性の高い機能を作ってみたくて開発しました。非同期でヌルヌルと動いてほしかったので、ReactとFirebaseをピックしました。","React/JavaScript/Sass<br>Material UI/Firebase<br>Photoshop"
+"https://mohumohu-it.github.io/React_TodoApp_practice/","./img/work_Todolist.png","Todoリスト サムネイル","To do リスト","初めてReactを使用して作ったアプリです。最初はエラー＆ググるの繰り返しでしたが、今では良い思い出です。今後はカレンダー、優先度、期日などの機能を追加し、常用できるタスク管理アプリにする予定です。","React/JavaScript/Sass/css"
+"https://mohumohu-it.github.io/Calculator/","./img/work_calculator.png","計算機 サムネイル","計算機","一般的な計算機です。数字や計算のアルゴリズムが好きで、プログラムを学んだら絶対に作ってみたかったアプリの一つです。3日で完成を目標に開発をスタートしたのですが、1日でできてしまい震えました。","JavaScript/HTML/Sass/css"
+"https://mohumohu-it.github.io/Stopwatch_practice/","./img/work_stopwatch.png","ストップウォッチ サムネイル","ストップウォッチ","シンプルなストップウォッチです。今後は、Stopを押した時点の経過時間を記録する機能やタイマー機能をつけたりなど、どんどん拡張していく予定です。","JavaScript/HTML/Sass/css"
+"https://yamatoyanagihara.github.io/memory_element/","./img/work_memory_element.png","神経衰弱 サムネイル","神経衰弱","神経衰弱のアプリです。今後、神経衰弱+RPG的な要素を追加してゆく想定なのでphotoshopで属性っぽいアイコンを作成しました。意外とシャッフルのアルゴリズムに手間取ってしまいました。","JavaScript/HTML/Sass/css<br>Photoshop"
+"https://mohumohu-it.github.io/portforio/","./img/work_portforio.png","ポートフォリオ サムネイル","ポートフォリオ","自分自身のポートフォリオです。これまでいくつかWEBサイトを作ってきましたが、このポートフォリオが初めて自作したWEBサイトなので思い出が詰まっています。近日中にアップデート予定です。","JavaScript/HTML/Sass/css<br>Photoshop"
+"https://mohumohu-it.github.io/portforio/","./img/work_portforio.png","ポートフォリオ サムネイル","ポートフォリオ","自分自身のポートフォリオです。これまでいくつかWEBサイトを作ってきましたが、このポートフォリオが初めて自作したWEBサイトなので思い出が詰まっています。近日中にアップデート予定です。","JavaScript/HTML/Sass/css<br>Photoshop"
+"https://mohumohu-it.github.io/portforio/","./img/work_portforio.png","ポートフォリオ サムネイル","ポートフォリオ","自分自身のポートフォリオです。これまでいくつかWEBサイトを作ってきましたが、このポートフォリオが初めて自作したWEBサイトなので思い出が詰まっています。近日中にアップデート予定です。","JavaScript/HTML/Sass/css<br>Photoshop"
